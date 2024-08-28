@@ -1,2 +1,2 @@
-Project 1 of all chutiyas under JIS University 
-let's check it out
+Soumyadip Banerjee's First project
+Check it out
